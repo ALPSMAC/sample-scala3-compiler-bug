@@ -1,0 +1,15 @@
+target
+.idea
+/*.iml
+/.idea_modules
+.classpath
+.project
+/.settings
+lib_managed/
+.*.swp
+.*.swo
+.*.swn
+project/.boot
+project/.ivy
+logs/
+.bsp/
